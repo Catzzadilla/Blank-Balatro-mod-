@@ -1,0 +1,14 @@
+{
+	"id": "blank",
+	"name": "Blank",
+	"display_name": "Blank",
+	"author": ["Catzzadilla"],
+	"description": "Does nothing?",
+	"prefix": "blank",
+	"main_file": "blank.lua",
+	"priority": 0,
+	"badge_colour": "666665",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0",
+	"dependencies": ["Steamodded"]
+}
