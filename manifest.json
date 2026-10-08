@@ -1,7 +1,7 @@
 {
-"name" = "Blank",
-"description" = "Does Nothing?",
-"website_url" = "https://github.com/Catzzadilla/Blank-Balatro-mod-",
-"version_number" = "1.0.1",
-"dependencies" = "Steamodded-Steamodded-26.1002.0",
+    "name": "Blank",
+    "description": "Does Nothing?",
+    "website_url": "https://github.com/Catzzadilla/Blank-Balatro-mod-",
+    "version_number": "1.0.1",
+    "dependencies": ["Steamodded-Steamodded-26.1002.0"]
 }
